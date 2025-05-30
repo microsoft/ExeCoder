@@ -4,7 +4,7 @@ gradio==4.39.0
 numpy==1.26.4
 openai==0.8.0
 pandas==2.2.2
-torch==2.2.1
+torch==2.7.0
 tqdm==4.64.1
 transformers==4.42.4
 tree_sitter==0.21.0
