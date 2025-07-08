@@ -6,7 +6,7 @@ openai==0.8.0
 pandas==2.2.2
 torch==2.2.1
 tqdm==4.64.1
-transformers==4.42.4
+transformers==4.52.1
 tree_sitter==0.21.0
 tree_sitter_go==0.21.0
 tree_sitter_c_sharp==0.21.0
